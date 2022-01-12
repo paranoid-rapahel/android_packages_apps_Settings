@@ -230,4 +230,8 @@
     <string name="search">Search</string>
     <string name="search_apps">Search apps</string>
 
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Pure Black</string>
+    <string name="system_black_theme_summary">Force black background colors</string>
+
 </resources>
