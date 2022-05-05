@@ -98,6 +98,7 @@ android_library {
         "lottie",
         "windowExtLib",
         "columbus-settingsgoogle",
+        "co.aospa.framework",
     ],
 
     libs: [
